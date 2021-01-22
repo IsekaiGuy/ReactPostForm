@@ -1,7 +1,7 @@
   <h2 align="center">React Post Form</h3>
 
 <!-- ABOUT THE PROJECT -->
-![Alt text](/my-app/public/ReactPostForm.png?raw=true" PostForm")
+![Alt text](my-app/public/ReactPostForm.png?raw=true" PostForm")
 ## About Project
 <p>
 Twitter-like post form, created on ReactJS with Reactstrap and Styled-components. What realized:
