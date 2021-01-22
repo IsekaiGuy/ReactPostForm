@@ -1,7 +1,7 @@
   <h2 align="center">React Post Form</h3>
 
 <!-- ABOUT THE PROJECT -->
-![Alt text](/my-app/public/React App.png?raw=true "PostForm")
+![Alt text](/my-app/public/React App.png?raw=true"PostForm")
 ## About Project
 <p>
 Twitter-like post form, created on ReactJS with Reactstrap and Styled-components. What realized:
@@ -10,6 +10,7 @@ Twitter-like post form, created on ReactJS with Reactstrap and Styled-components
 <li>Adding like/important status</li>
 <li>Search form</li>
 <li>Sorting by "liked"</li>
+<li>Counting the number of messages and "liked" messages</li>
 </ul>
 </p>
 
